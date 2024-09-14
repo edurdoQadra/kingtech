@@ -1,0 +1,784 @@
+{
+  "AdminLayout.css": {
+    "file": "assets/AdminLayout-6f8eec7f.css",
+    "src": "AdminLayout.css"
+  },
+  "_AdminLayout-1544aa8e.js": {
+    "css": [
+      "assets/AdminLayout-6f8eec7f.css"
+    ],
+    "file": "assets/AdminLayout-1544aa8e.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ]
+  },
+  "_GuestLayout-862b117d.js": {
+    "file": "assets/GuestLayout-862b117d.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_PrimaryButton-6fc1d68c.js": {
+    "file": "assets/PrimaryButton-6fc1d68c.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_SecondaryButton-b46dde65.js": {
+    "file": "assets/SecondaryButton-b46dde65.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_TableDataCell-28edbe2c.js": {
+    "file": "assets/TableDataCell-28edbe2c.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_TextInput-e9c21270.js": {
+    "file": "assets/TextInput-e9c21270.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "__plugin-vue_export-helper-c27b6911.js": {
+    "file": "assets/_plugin-vue_export-helper-c27b6911.js"
+  },
+  "_config-d6fbb0e2.js": {
+    "css": [
+      "assets/config-247780cb.css"
+    ],
+    "file": "assets/config-d6fbb0e2.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_permissions-33cf8f44.js": {
+    "file": "assets/permissions-33cf8f44.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_vue-multiselect.css_vue_type_style_index_0_src_true_lang-ffa35d35.js": {
+    "css": [
+      "assets/vue-multiselect-f7588fa1.css"
+    ],
+    "file": "assets/vue-multiselect.css_vue_type_style_index_0_src_true_lang-ffa35d35.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_vue3-datepicker-d0203c5a.js": {
+    "css": [
+      "assets/Administracion-e3b0c442.css"
+    ],
+    "file": "assets/vue3-datepicker-d0203c5a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "config.css": {
+    "file": "assets/config-247780cb.css",
+    "src": "config.css"
+  },
+  "node_modules/leaflet/dist/images/layers-2x.png": {
+    "file": "assets/layers-2x-066daca8.png",
+    "src": "node_modules/leaflet/dist/images/layers-2x.png"
+  },
+  "node_modules/leaflet/dist/images/layers.png": {
+    "file": "assets/layers-1dbbe9d0.png",
+    "src": "node_modules/leaflet/dist/images/layers.png"
+  },
+  "node_modules/leaflet/dist/images/marker-icon.png": {
+    "file": "assets/marker-icon-574c3a5c.png",
+    "src": "node_modules/leaflet/dist/images/marker-icon.png"
+  },
+  "resources/js/Pages/Admin/AdminIndex.vue": {
+    "file": "assets/AdminIndex-abf778c1.js",
+    "imports": [
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/AdminIndex.vue"
+  },
+  "resources/js/Pages/Admin/Alerts/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Alerts/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-3e24b7e1.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Alerts/Index.vue"
+  },
+  "resources/js/Pages/Admin/Clients/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Clients/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-9553e43e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Clients/Index.vue"
+  },
+  "resources/js/Pages/Admin/Modules/Administracion.css": {
+    "file": "assets/Administracion-e3b0c442.css",
+    "src": "vue3-datepicker.css"
+  },
+  "resources/js/Pages/Admin/Modules/Administracion.vue": {
+    "css": [
+      "assets/Administracion-e3b0c442.css"
+    ],
+    "file": "assets/Administracion-6c4f7f6f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/Pages/Admin/Clients/Index.vue",
+      "resources/js/Pages/Admin/Persons/Index.vue",
+      "resources/js/Pages/Admin/Platforms/Index.vue",
+      "resources/js/Pages/Admin/Platformstore/Index.vue",
+      "resources/js/Pages/Admin/StoreLocation/Index.vue",
+      "resources/js/Pages/Admin/Stores/Index.vue",
+      "resources/js/Pages/Admin/TransacitonDetails/Index.vue",
+      "resources/js/Pages/Admin/Transactions/Index.vue",
+      "resources/js/Pages/Admin/Utilitys/Index.vue",
+      "resources/js/Pages/Admin/Partner/Index.vue",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Modules/Administracion.vue"
+  },
+  "resources/js/Pages/Admin/Modules/Atc.css": {
+    "file": "assets/Administracion-e3b0c442.css",
+    "src": "vue3-datepicker.css"
+  },
+  "resources/js/Pages/Admin/Modules/Atc.vue": {
+    "css": [
+      "assets/Administracion-e3b0c442.css"
+    ],
+    "file": "assets/Atc-c01d7c00.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/Pages/Admin/Clients/Index.vue",
+      "resources/js/Pages/Admin/Persons/Index.vue",
+      "resources/js/Pages/Admin/Stores/Index.vue",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Modules/Atc.vue"
+  },
+  "resources/js/Pages/Admin/Modules/Contabilidad.css": {
+    "file": "assets/Administracion-e3b0c442.css",
+    "src": "vue3-datepicker.css"
+  },
+  "resources/js/Pages/Admin/Modules/Contabilidad.vue": {
+    "css": [
+      "assets/Administracion-e3b0c442.css"
+    ],
+    "file": "assets/Contabilidad-bc15d6b8.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/Pages/Admin/Utilitys/Index.vue",
+      "resources/js/Pages/Admin/TransacitonDetails/Index.vue",
+      "resources/js/Pages/Admin/Transactions/Index.vue",
+      "resources/js/Pages/Admin/Platforms/Index.vue",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Modules/Contabilidad.vue"
+  },
+  "resources/js/Pages/Admin/Modules/Soporte.css": {
+    "file": "assets/Administracion-e3b0c442.css",
+    "src": "vue3-datepicker.css"
+  },
+  "resources/js/Pages/Admin/Modules/Soporte.vue": {
+    "css": [
+      "assets/Administracion-e3b0c442.css"
+    ],
+    "file": "assets/Soporte-3110630b.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/Pages/Admin/Clients/Index.vue",
+      "resources/js/Pages/Admin/Alerts/Index.vue",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Modules/Soporte.vue"
+  },
+  "resources/js/Pages/Admin/Partner/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Partner/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-826c9883.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Partner/Index.vue"
+  },
+  "resources/js/Pages/Admin/Permissions/Create.vue": {
+    "file": "assets/Create-f9dc8a2e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_TextInput-e9c21270.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Permissions/Create.vue"
+  },
+  "resources/js/Pages/Admin/Permissions/Edit.vue": {
+    "file": "assets/Edit-128d8518.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_TextInput-e9c21270.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Permissions/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Permissions/PermissionIndex.vue": {
+    "file": "assets/PermissionIndex-f4d416ca.js",
+    "imports": [
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/app.js",
+      "_TableDataCell-28edbe2c.js",
+      "_SecondaryButton-b46dde65.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Permissions/PermissionIndex.vue"
+  },
+  "resources/js/Pages/Admin/Persons/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Persons/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-a99e4dd1.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Persons/Index.vue"
+  },
+  "resources/js/Pages/Admin/Platforms/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Platforms/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-01b98b1f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Platforms/Index.vue"
+  },
+  "resources/js/Pages/Admin/Platformstore/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Platformstore/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-bf8eab62.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Platformstore/Index.vue"
+  },
+  "resources/js/Pages/Admin/Posts/Create.vue": {
+    "file": "assets/Create-5bb24e59.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_TextInput-e9c21270.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Posts/Create.vue"
+  },
+  "resources/js/Pages/Admin/Posts/Edit.vue": {
+    "file": "assets/Edit-1ae41afb.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_TextInput-e9c21270.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Posts/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Posts/PostIndex.vue": {
+    "file": "assets/PostIndex-29e4358a.js",
+    "imports": [
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/app.js",
+      "_permissions-33cf8f44.js",
+      "_TableDataCell-28edbe2c.js",
+      "_SecondaryButton-b46dde65.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Posts/PostIndex.vue"
+  },
+  "resources/js/Pages/Admin/Roles/Create.vue": {
+    "file": "assets/Create-231c2946.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_TextInput-e9c21270.js",
+      "_vue-multiselect.css_vue_type_style_index_0_src_true_lang-ffa35d35.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Roles/Create.vue"
+  },
+  "resources/js/Pages/Admin/Roles/Edit.vue": {
+    "file": "assets/Edit-7872edda.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_TextInput-e9c21270.js",
+      "_vue-multiselect.css_vue_type_style_index_0_src_true_lang-ffa35d35.js",
+      "_TableDataCell-28edbe2c.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Roles/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Roles/RoleIndex.vue": {
+    "file": "assets/RoleIndex-09b18a01.js",
+    "imports": [
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/app.js",
+      "_TableDataCell-28edbe2c.js",
+      "_SecondaryButton-b46dde65.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Roles/RoleIndex.vue"
+  },
+  "resources/js/Pages/Admin/StoreLocation/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/StoreLocation/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-f275c36f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/StoreLocation/Index.vue"
+  },
+  "resources/js/Pages/Admin/Stores/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Stores/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-83316454.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Stores/Index.vue"
+  },
+  "resources/js/Pages/Admin/TransacitonDetails/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/TransacitonDetails/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-d6ab506c.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/TransacitonDetails/Index.vue"
+  },
+  "resources/js/Pages/Admin/Transactions/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Transactions/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-96bdde1e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Transactions/Index.vue"
+  },
+  "resources/js/Pages/Admin/Users/Create.vue": {
+    "file": "assets/Create-0cecba80.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_vue-multiselect.css_vue_type_style_index_0_src_true_lang-ffa35d35.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Users/Create.vue"
+  },
+  "resources/js/Pages/Admin/Users/Edit.vue": {
+    "file": "assets/Edit-d5c1d21d.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "_vue-multiselect.css_vue_type_style_index_0_src_true_lang-ffa35d35.js",
+      "_TableDataCell-28edbe2c.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Users/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Users/UserIndex.vue": {
+    "file": "assets/UserIndex-04a6d827.js",
+    "imports": [
+      "_AdminLayout-1544aa8e.js",
+      "resources/js/app.js",
+      "_TableDataCell-28edbe2c.js",
+      "_SecondaryButton-b46dde65.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Users/UserIndex.vue"
+  },
+  "resources/js/Pages/Admin/Utilitys/Index.css": {
+    "file": "assets/Index-adf0c555.css",
+    "src": "resources/js/Pages/Admin/Utilitys/Index.css"
+  },
+  "resources/js/Pages/Admin/Utilitys/Index.vue": {
+    "css": [
+      "assets/Index-adf0c555.css"
+    ],
+    "file": "assets/Index-2081779a.js",
+    "imports": [
+      "resources/js/app.js",
+      "_config-d6fbb0e2.js",
+      "_vue3-datepicker-d0203c5a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Utilitys/Index.vue"
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.vue": {
+    "file": "assets/ConfirmPassword-7947d0d5.js",
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-862b117d.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ConfirmPassword.vue"
+  },
+  "resources/js/Pages/Auth/ForgotPassword.vue": {
+    "file": "assets/ForgotPassword-312919e7.js",
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-862b117d.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ForgotPassword.vue"
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login-913aff5c.js",
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-862b117d.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Login.vue"
+  },
+  "resources/js/Pages/Auth/Register.vue": {
+    "file": "assets/Register-c14cdbce.js",
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-862b117d.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Register.vue"
+  },
+  "resources/js/Pages/Auth/ResetPassword.vue": {
+    "file": "assets/ResetPassword-3789229f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-862b117d.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ResetPassword.vue"
+  },
+  "resources/js/Pages/Auth/VerifyEmail.vue": {
+    "file": "assets/VerifyEmail-29ef81d9.js",
+    "imports": [
+      "resources/js/app.js",
+      "_GuestLayout-862b117d.js",
+      "_PrimaryButton-6fc1d68c.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/VerifyEmail.vue"
+  },
+  "resources/js/Pages/Dashboard.css": {
+    "file": "assets/Dashboard-46724b84.css",
+    "src": "resources/js/Pages/Dashboard.css"
+  },
+  "resources/js/Pages/Dashboard.vue": {
+    "assets": [
+      "assets/layers-1dbbe9d0.png",
+      "assets/layers-2x-066daca8.png",
+      "assets/marker-icon-574c3a5c.png"
+    ],
+    "css": [
+      "assets/Dashboard-46724b84.css"
+    ],
+    "file": "assets/Dashboard-d31d0c6e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-1544aa8e.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_permissions-33cf8f44.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dashboard.vue"
+  },
+  "resources/js/Pages/Dropdown.vue": {
+    "file": "assets/Dropdown-78a9e8f3.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dropdown.vue"
+  },
+  "resources/js/Pages/Profile/Edit.vue": {
+    "file": "assets/Edit-2cd8ab4b.js",
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "_SecondaryButton-b46dde65.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Edit.vue"
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.vue": {
+    "file": "assets/DeleteUserForm-c36e3fe4.js",
+    "imports": [
+      "resources/js/app.js",
+      "_SecondaryButton-b46dde65.js",
+      "_TextInput-e9c21270.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.vue"
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue": {
+    "file": "assets/UpdatePasswordForm-39771117.js",
+    "imports": [
+      "resources/js/app.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue"
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue": {
+    "file": "assets/UpdateProfileInformationForm-4944c6e6.js",
+    "imports": [
+      "resources/js/app.js",
+      "_TextInput-e9c21270.js",
+      "_PrimaryButton-6fc1d68c.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue"
+  },
+  "resources/js/Pages/Welcome.css": {
+    "file": "assets/Welcome-665689a9.css",
+    "src": "resources/js/Pages/Welcome.css"
+  },
+  "resources/js/Pages/Welcome.vue": {
+    "css": [
+      "assets/Welcome-665689a9.css"
+    ],
+    "file": "assets/Welcome-814fd8c1.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Welcome.vue"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-ae68b1f9.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-ae68b1f9.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Admin/AdminIndex.vue",
+      "resources/js/Pages/Admin/Alerts/Index.vue",
+      "resources/js/Pages/Admin/Clients/Index.vue",
+      "resources/js/Pages/Admin/Modules/Administracion.vue",
+      "resources/js/Pages/Admin/Modules/Atc.vue",
+      "resources/js/Pages/Admin/Modules/Contabilidad.vue",
+      "resources/js/Pages/Admin/Modules/Soporte.vue",
+      "resources/js/Pages/Admin/Partner/Index.vue",
+      "resources/js/Pages/Admin/Permissions/Create.vue",
+      "resources/js/Pages/Admin/Permissions/Edit.vue",
+      "resources/js/Pages/Admin/Permissions/PermissionIndex.vue",
+      "resources/js/Pages/Admin/Persons/Index.vue",
+      "resources/js/Pages/Admin/Platforms/Index.vue",
+      "resources/js/Pages/Admin/Platformstore/Index.vue",
+      "resources/js/Pages/Admin/Posts/Create.vue",
+      "resources/js/Pages/Admin/Posts/Edit.vue",
+      "resources/js/Pages/Admin/Posts/PostIndex.vue",
+      "resources/js/Pages/Admin/Roles/Create.vue",
+      "resources/js/Pages/Admin/Roles/Edit.vue",
+      "resources/js/Pages/Admin/Roles/RoleIndex.vue",
+      "resources/js/Pages/Admin/StoreLocation/Index.vue",
+      "resources/js/Pages/Admin/Stores/Index.vue",
+      "resources/js/Pages/Admin/TransacitonDetails/Index.vue",
+      "resources/js/Pages/Admin/Transactions/Index.vue",
+      "resources/js/Pages/Admin/Users/Create.vue",
+      "resources/js/Pages/Admin/Users/Edit.vue",
+      "resources/js/Pages/Admin/Users/UserIndex.vue",
+      "resources/js/Pages/Admin/Utilitys/Index.vue",
+      "resources/js/Pages/Auth/ConfirmPassword.vue",
+      "resources/js/Pages/Auth/ForgotPassword.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Auth/Register.vue",
+      "resources/js/Pages/Auth/ResetPassword.vue",
+      "resources/js/Pages/Auth/VerifyEmail.vue",
+      "resources/js/Pages/Dashboard.vue",
+      "resources/js/Pages/Dropdown.vue",
+      "resources/js/Pages/Profile/Edit.vue",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "resources/js/Pages/Welcome.vue"
+    ],
+    "file": "assets/app-3beeeaef.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "vue-multiselect.css": {
+    "file": "assets/vue-multiselect-f7588fa1.css",
+    "src": "vue-multiselect.css"
+  },
+  "vue3-datepicker.css": {
+    "file": "assets/Administracion-e3b0c442.css",
+    "src": "vue3-datepicker.css"
+  }
+}

@@ -1,0 +1,62 @@
+.env
+# Laravel & PHP specific files
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+Homestead.yaml
+Homestead.json
+.env
+.env.backup
+.env.*
+
+# Ignoring Laravel's log files
+/storage/logs/*.log
+
+# Ignoring Laravel's cache
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/bootstrap/cache/*.php
+
+# Composer specific files
+composer.lock
+
+# NPM/Yarn specific files
+npm-debug.log
+yarn-error.log
+
+# Ignore transpiled and minified files
+/public/js/*.js
+/public/js/*.js.map
+/public/css/*.css
+/public/css/*.css.map
+
+# Ignore Laravel Mix generated files
+/public/mix-manifest.json
+/public/hot
+/public/assets/
+
+# Node.js specific files
+node_modules
+*.log
+
+# Webpack specific files
+/public/manifest.json
+
+# Ignore any coverage reports
+/coverage
+/coverage/*
+
+# Ignore IDE-specific folders
+.idea/
+.vscode/
+phpstorm.meta.php
+
+# Misc
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
